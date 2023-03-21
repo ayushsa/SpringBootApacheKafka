@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.javainuse</groupId>
+    <groupId>com.research</groupId>
     <artifactId>SpringBootApacheKafka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>

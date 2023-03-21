@@ -1,4 +1,4 @@
-package com.javainuse.model;
+package com.research.model;
 
 public class User {
 

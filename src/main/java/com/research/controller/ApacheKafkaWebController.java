@@ -1,7 +1,7 @@
-package com.javainuse.controller;
+package com.research.controller;
 
-import com.javainuse.consumer.MyTopicConsumer;
-import com.javainuse.model.User;
+import com.research.consumer.MyTopicConsumer;
+import com.research.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.GetMapping;

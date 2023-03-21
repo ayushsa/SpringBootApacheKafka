@@ -1,4 +1,4 @@
-package com.javainuse.consumer;
+package com.research.consumer;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.javainuse.consumer;
+package com.research.consumer;
 
 import java.util.HashMap;
 import java.util.Map;
